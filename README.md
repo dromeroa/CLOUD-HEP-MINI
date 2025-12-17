@@ -8,4 +8,10 @@ docker run -it --name analisis_ul16v2   -v /hepdata/David/cms_open_data_work/CMS
 Setting up CMSSW_10_6_30
 ```
 
+Para copiar un archivo desde docker hasta mi disco:
+
+```bash
+docker cp 7423311b0c57:/code/CMSSW_10_6_30/src/Analisis/MyAnalyzer/python/data_completa.root .
+```
+
 
