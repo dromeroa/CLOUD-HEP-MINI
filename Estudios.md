@@ -30,7 +30,7 @@ Se observa una gran densidad de puntos concentrados alrededor de ($d_{xy}$ = 0).
 
 * **Física**: Estas partículas se originan directamente en el **Vértice Primario (PV)**.
 * **Contexto de jets**:
-  La mayoría de las partículas en jets de quarks ligeros (($u$,$d$,$s$)) o gluones provienen de la fragmentación inmediata en el punto de colisión.
+  La mayoría de las partículas en jets de quarks ligeros ((u,d,s)) o gluones provienen de la fragmentación inmediata en el punto de colisión.
   Por definición, su distancia mínima al vértice debe ser cero, salvo por la resolución finita del detector.
 
 ---
