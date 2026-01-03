@@ -1,3 +1,9 @@
+# Estudios de QCD con los PF particles
+
+Se uso el dataset: Simulated dataset QCD_Pt-15to7000_TuneCP5_Flat2018_13TeV_pythia8
+
+## Grafico del $pT$ 
+
 
 <img width="3000" height="2100" alt="image" src="https://github.com/user-attachments/assets/7d0de187-214c-42cd-9193-0e8ffceb6d7b" />
 
@@ -7,7 +13,7 @@
 <img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/2cc4f60a-6d79-4b3e-af44-1adddfc035e7" />
 
 
-# Distribución espacial de constituyentes del jet en el plano $\eta-\phi$
+## Distribución espacial de constituyentes del jet en el plano $\eta-\phi$
 
 Este gráfico visualiza la **distribución espacial de los constituyentes del jet** en el plano $\eta-\phi$, utilizando el color para representar el valor del **parámetro de impacto transversal** $d_{xy}$.
 
