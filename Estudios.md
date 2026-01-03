@@ -3,9 +3,9 @@
 
 
 
-# Relación entre (p_T) y (d_{xy}) en constituyentes de jets (CMS)
+# Relación entre ($p_T$) y ($d_{xy}$) en constituyentes de jets (CMS)
 
-Este gráfico muestra la relación entre el **momento transversal** ((p_T)) y el **parámetro de impacto transversal** ((d_{xy})) para los constituyentes de un jet (candidatos del algoritmo *Particle Flow*) en el experimento **CMS**.
+Este gráfico muestra la relación entre el **momento transversal** (($p_T$)) y el **parámetro de impacto transversal** (($d_{xy}$)) para los constituyentes de un jet (candidatos del algoritmo *Particle Flow*) en el experimento **CMS**.
 
 A continuación se presenta una **interpretación física detallada** de las características observadas.
 
@@ -13,7 +13,7 @@ A continuación se presenta una **interpretación física detallada** de las car
 
 ## 1. Forma de “Embudo” (Resolución del detector)
 
-La característica más dominante es que la dispersión de los valores de (d_{xy}) es muy amplia a bajo (p_T) y se estrecha significativamente a medida que aumenta el (p_T).
+La característica más dominante es que la dispersión de los valores de ($d_{xy}$) es muy amplia a bajo ($p_T$) y se estrecha significativamente a medida que aumenta el ($p_T$).
 
 * **Física**: Consecuencia directa de la resolución de las trazas en el detector interno (*tracker*).
 * **Explicación**:
