@@ -9,7 +9,7 @@ Número de eventos: 657344886 (mas de 600 millones)
 
 <img width="3000" height="2100" alt="image" src="https://github.com/user-attachments/assets/7d0de187-214c-42cd-9193-0e8ffceb6d7b" />
 
-## Gráfico $\eta-\phi$
+## Gráfico $\eta-\phi$ (se usaron 500 000 eventos)
 
 
 <img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/2cc4f60a-6d79-4b3e-af44-1adddfc035e7" />
@@ -96,7 +96,7 @@ Para tu proyecto de **identificación de señales (H/Z/W)**:
 ---
 
 
-## Gráfico del $pT$ vs $d_{xy}$
+## Gráfico del $pT$ vs $d_{xy}$ (se usaron 500 000 eventos)
 
 
 <img width="3000" height="2100" alt="image" src="https://github.com/user-attachments/assets/72394417-c8c7-49e4-89a6-26482c567c80" />
