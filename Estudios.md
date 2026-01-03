@@ -18,8 +18,8 @@ La característica más dominante es que la dispersión de los valores de ($d_{x
 * **Física**: Consecuencia directa de la resolución de las trazas en el detector interno (*tracker*).
 * **Explicación**:
   Las partículas de bajo momento sufren mayor **Dispersión Múltiple de Coulomb** (*Multiple Coulomb Scattering*) al atravesar las capas de silicio del detector.
-  Esto degrada la reconstrucción de su trayectoria, aumentando la incertidumbre en su punto de origen ((d_{xy})).
-  Las partículas de alto (p_T) son más “rígidas”, se curvan y dispersan menos, permitiendo una extrapolación mucho más precisa hacia el vértice primario.
+  Esto degrada la reconstrucción de su trayectoria, aumentando la incertidumbre en su punto de origen ($d_{xy}$).
+  Las partículas de alto ($p_T$) son más “rígidas”, se curvan y dispersan menos, permitiendo una extrapolación mucho más precisa hacia el vértice primario.
 
 ---
 
