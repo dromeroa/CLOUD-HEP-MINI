@@ -2,6 +2,8 @@
 
 Se uso el dataset: Simulated dataset QCD_Pt-15to7000_TuneCP5_Flat2018_13TeV_pythia8
 
+Número de eventos: 657344886 (mas de 600 millones)
+
 ## Gráfico del $pT$ 
 
 
