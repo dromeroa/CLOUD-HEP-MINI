@@ -26,30 +26,30 @@ La característica más dominante es que la dispersión de los valores de ($d_{x
 
 ## 2. Banda central (Partículas *prompt*)
 
-Se observa una gran densidad de puntos concentrados alrededor de (d_{xy} = 0).
+Se observa una gran densidad de puntos concentrados alrededor de ($d_{xy}$ = 0).
 
 * **Física**: Estas partículas se originan directamente en el **Vértice Primario (PV)**.
 * **Contexto de jets**:
-  La mayoría de las partículas en jets de quarks ligeros ((u,d,s)) o gluones provienen de la fragmentación inmediata en el punto de colisión.
+  La mayoría de las partículas en jets de quarks ligeros (($u$,$d$,$s$)) o gluones provienen de la fragmentación inmediata en el punto de colisión.
   Por definición, su distancia mínima al vértice debe ser cero, salvo por la resolución finita del detector.
 
 ---
 
 ## 3. Dispersión “real” (vida media y *B-tagging*)
 
-Además de la banda central, aparece una “nube” de puntos con (d_{xy} \neq 0), especialmente visible en el rango de (p_T) medio (≈ 1–100 GeV).
+Además de la banda central, aparece una “nube” de puntos con ($d_{xy} \neq 0$), especialmente visible en el rango de $p_T$ medio (≈ 1–100 GeV).
 
 * **Física**:
   Parte de esta dispersión no es instrumental, sino **física real**, asociada a la desintegración de hadrones de vida media larga (principalmente hadrones **B** y **C**).
 * **Importancia**:
-  Un hadrón B puede recorrer varios milímetros antes de decaer. Sus productos de desintegración presentan valores de (d_{xy}) significativamente distintos de cero.
-  Este es el principio fundamental de los algoritmos de *B-tagging* (por ejemplo **DeepJet** o **ParticleNet**), que buscan trazas con valores altos de (d_{xy}) o de su significancia (d_{xy}/\sigma).
+  Un hadrón B puede recorrer varios milímetros antes de decaer. Sus productos de desintegración presentan valores de $d_{xy}$ significativamente distintos de cero.
+  Este es el principio fundamental de los algoritmos de *B-tagging* (por ejemplo **DeepJet** o **ParticleNet**), que buscan trazas con valores altos de $d_{xy}$ o de su significancia ($d_{xy}/\sigma$).
 
 ---
 
-## 4. *Outliers* a bajo (p_T) (artefactos y fondo)
+## 4. *Outliers* a bajo ($p_T$) (artefactos y fondo)
 
-En el extremo izquierdo ((p_T < 1) GeV) se observan puntos con valores extremos de (d_{xy}) (cercanos a (\pm 100)).
+En el extremo izquierdo ($p_T$ < 1 GeV) se observan puntos con valores extremos de $d_{xy}$ (cercanos a ($\pm 100$)).
 
 ### Interpretación
 
@@ -61,17 +61,17 @@ En el extremo izquierdo ((p_T < 1) GeV) se observan puntos con valores extremos 
   Contaminación de colisiones protón–protón simultáneas, aunque los cortes de calidad suelen mitigar este efecto.
 
 > **Nota técnica**:
-> En análisis de física (por ejemplo, para el diseño de un *autoencoder*), es común aplicar cortes como (p_T > 1) GeV para eliminar este ruido, que no aporta información física relevante sobre la naturaleza del jet.
+> En análisis de física (por ejemplo, para el diseño de un *autoencoder*), es común aplicar cortes como ($p_T$ > 1) GeV para eliminar este ruido, que no aporta información física relevante sobre la naturaleza del jet.
 
 ---
 
  **identificación de *fat jets* (H/Z/W)**:
 
-* Este gráfico muestra que (d_{xy}) es una **variable altamente discriminante**, pero con una fuerte dependencia en (p_T).
+* Este gráfico muestra que $d_{xy}$ es una **variable altamente discriminante**, pero con una fuerte dependencia en $p_T$.
 * Si estos datos se usan en una red neuronal (GNN o *Autoencoder*), el modelo debe aprender que:
 
-  * un (d_{xy}) grande a bajo (p_T) suele ser ruido,
-  * mientras que un (d_{xy}) grande a alto (p_T) es altamente significativo y puede indicar sabor pesado o estructura interna del jet.
+  * un $d_{xy}$ grande a bajo $p_T$ suele ser ruido,
+  * mientras que un $d_{xy}$ grande a alto $p_T$ es altamente significativo y puede indicar sabor pesado o estructura interna del jet.
 
 ---
 
