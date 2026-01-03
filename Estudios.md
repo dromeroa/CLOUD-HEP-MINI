@@ -5,7 +5,7 @@
 
 # Relación entre ($p_T$) y ($d_{xy}$) en constituyentes de jets (CMS)
 
-Este gráfico muestra la relación entre el **momento transversal** (($p_T$)) y el **parámetro de impacto transversal** (($d_{xy}$)) para los constituyentes de un jet (candidatos del algoritmo *Particle Flow*) en el experimento **CMS**.
+Este gráfico muestra la relación entre el **momento transversal** ($p_T$) y el **parámetro de impacto transversal** ($d_{xy}$) para los constituyentes de un jet (candidatos del algoritmo *Particle Flow*) en el experimento **CMS**.
 
 A continuación se presenta una **interpretación física detallada** de las características observadas.
 
