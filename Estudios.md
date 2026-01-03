@@ -19,7 +19,7 @@ Se observa que los puntos se cortan abruptamente alrededor de $\eta \approx \pm 
 
 * **Física**:
   Este límite corresponde a la cobertura física del **Silicon Tracker** de CMS.
-  Aunque los calorímetros (ECAL/HCAL) se extienden hasta (|$\eta$| = 3.0) o incluso (5.0), el cálculo de $d_{xy}$ requiere la reconstrucción de **trazas** (*tracks*).
+  Aunque los calorímetros (ECAL/HCAL) se extienden hasta $|\eta| = 3.0$ o incluso (5.0), el cálculo de $d_{xy}$ requiere la reconstrucción de **trazas** (*tracks*).
 
 * **Implicancia**:
   Para un identificador de *fat jets*, cualquier información que dependa de $d_{xy}$ (por ejemplo *b-tagging* o variables de vida media) solo estará disponible en esta región central.
