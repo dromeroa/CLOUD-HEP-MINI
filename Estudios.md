@@ -23,13 +23,13 @@ Se observa que los puntos se cortan abruptamente alrededor de $\eta \approx \pm 
 
 * **Implicancia**:
   Para un identificador de *fat jets*, cualquier información que dependa de $d_{xy}$ (por ejemplo *b-tagging* o variables de vida media) solo estará disponible en esta región central.
-  Si el *dataset* incluye jets con (|$\eta$| > 2.5), esta variable será nula o inválida.
+  Si el *dataset* incluye jets con $|\eta| > 2.5$, esta variable será nula o inválida.
 
 ---
 
 ## 2. Uniformidad y *pileup*
 
-La distribución cubre todo el rango de $\phi$ (-$\pi$ a $+\pi$) y el rango central de $\eta$ de manera casi uniforme, con un patrón tipo “sal y pimienta”.
+La distribución cubre todo el rango de $\phi -\pi$ a $+\pi$ y el rango central de $\eta$ de manera casi uniforme, con un patrón tipo “sal y pimienta”.
 
 * **Interpretación**:
   Esto indica que se está visualizando una muestra acumulada de muchos eventos (o eventos con alto *pileup*).
