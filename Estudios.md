@@ -5,7 +5,7 @@
 
 # Distribución espacial de constituyentes del jet en el plano $\eta-\phi$
 
-Este gráfico visualiza la **distribución espacial de los constituyentes del jet** en el plano $\eta$–$\phi$, utilizando el color para representar el valor del **parámetro de impacto transversal** $d_{xy}$.
+Este gráfico visualiza la **distribución espacial de los constituyentes del jet** en el plano $\eta-\phi$, utilizando el color para representar el valor del **parámetro de impacto transversal** $d_{xy}$.
 
 Esta visualización es crucial para entender la **calidad** y la **geometría** de los datos antes de utilizarlos como entrada en un modelo de *Machine Learning*. A continuación se presenta una interpretación detallada, orientada a tu investigación en **CMS**.
 
