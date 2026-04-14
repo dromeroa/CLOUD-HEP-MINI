@@ -34,3 +34,11 @@ docker cp 7423311b0c57:/code/CMSSW_10_6_30/src/Analisis/MyAnalyzer/python/data_c
 Esto copia el archivo del contenedor a el servidor.
 
 Si queremos bajarlo a nuestra compu, usamos: sftp.
+
+- ## Si quieres copiar desde mis disco al docker(contenedor):
+
+```bash
+docker cp /hepdata/Signal-1000 48f13ae25c6b:/code
+```
+
+donde Signal-1000 es la carpeta que quiero copiar y 48f13ae25c6b es el ID del docker.
