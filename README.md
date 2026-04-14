@@ -24,7 +24,8 @@ docker run -it --name analisis_ul16v2   -v /hepdata/David/cms_open_data_work/CMS
 Setting up CMSSW_10_6_30
 ```
 
-Para copiar un archivo desde docker hasta mi disco:
+- ## Para copiar un archivo desde docker hasta mi disco:
+  
 (Se supone que el archivo esta en un contenedor de docker) y nosotros estamos en el servidor. Debemos averiguar primero cual es el contenedor, hacemos (docker ps) e identificamos el Id del contenedor, en este caso es 7423311b0c57.  
 
 ```bash
